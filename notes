@@ -1,0 +1,15 @@
+What are children props
+Children props is a special built in property in react that is 
+used to display content passed between the opening and the closing tag of component. 
+In simple words it allows you to send JSX, elements, or components as content inside another components
+
+Coponent composition
+
+
+
+
+
+
+
+
+
