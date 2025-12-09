@@ -5,6 +5,8 @@ In simple words it allows you to send JSX, elements, or components as content in
 
 Coponent composition
 
+npm uninstall -g create-react-app
+
 
 
 
